@@ -125,8 +125,30 @@
 
 ## Education
 
+- **중앙대학교 대학원 (석사)**: 통계심리학과. 23.03.01 - 25.02.09 [졸업, 4.32/4.5]
+- **중앙대학교**: 심리학과. 17.03.02 - 23.02.13 [졸업. 3.92/4.5]
+- **세광고등학교**: 14.03.03 - 17.02.10 [졸업]
+- **운호중학교**: 11.03.02 - 14.02.12 [졸업]
+
 ## License
+
+- **ADsP**: 합격. 2024.06.07
+- **OPIC**: IM. 2026.02.13
 
 ## Skills
 
 |Part|Skill|Level|
+|---|---|---|
+|프로그래밍|Python|<span style='background-color: #ffdce0'> 상 </span>|
+|프로그래밍|SQL|상|
+|프로그래밍|R|중|
+|데이터 툴|Tableau prep|하|
+|머신러닝|Scikit-learn|상|
+|머신러닝|Pycaret|상|
+|시각화|Tableau|중|
+|시각화|Redash|중|
+|시각화|Matplotlib|중|
+|시각화|Seaborn|중|
+
+
+<span style='background-color: #ffdce0'> 상 </span>
