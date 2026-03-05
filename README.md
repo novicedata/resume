@@ -4,6 +4,7 @@
 ◼️ Blog(Tistory): [datanovice](https://datanovice.tistory.com/) <br>
 ◼️ Paper: [XAI](https://github.com/novicedata/Paper) <br>
 ◼️ Email: sinjinyoung987@gmail.com <br>
+◼️ About Me: [깃허브 정리 링크](https://github.com/novicedata) <br>
 
 ## Introduction
 
