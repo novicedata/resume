@@ -139,16 +139,14 @@
 
 |Part|Skill|Level|
 |---|---|---|
-|프로그래밍|Python|<span style='background-color: #ffdce0'> 상 </span>|
-|프로그래밍|SQL|상|
-|프로그래밍|R|중|
-|데이터 툴|Tableau prep|하|
-|머신러닝|Scikit-learn|상|
-|머신러닝|Pycaret|상|
-|시각화|Tableau|중|
-|시각화|Redash|중|
-|시각화|Matplotlib|중|
-|시각화|Seaborn|중|
+|프로그래밍|Python|상🟥|
+|프로그래밍|SQL|상🟥|
+|프로그래밍|R|중🟧|
+|데이터 툴|Tableau prep|하🟨|
+|머신러닝|Scikit-learn|상🟥|
+|머신러닝|Pycaret|상🟥|
+|시각화|Tableau|중🟧|
+|시각화|Redash|중🟧|
+|시각화|Matplotlib|중🟧|
+|시각화|Seaborn|중🟧|
 
-
-<span style='background-color: #ffdce0'> 상 </span>
